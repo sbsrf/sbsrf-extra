@@ -1,0 +1,80 @@
+# Rime schema
+# encoding: utf-8
+
+__include: sbpy.schema.yaml:/
+
+schema:
+  schema_id: sbzrzj
+  name: 声笔自然整句
+  version: "10.0"
+  author:
+    - 戴石麟 <https://sbxlm.github.io>
+    - 蓝落萧 <https://tansongchen.com>
+  dependencies:
+    - sbpy
+
+switches:
+  __include: sbpy.schema.yaml:/switches
+  __patch:
+    "@3": { options: [fixed, popping], reset: 1, states: [整句, 字词] }
+
+engine:
+  __include: sbpy.schema.yaml:/engine
+  processors:
+    - lua_processor@*sbxlm.ascii_composer
+    - ascii_composer
+    - recognizer
+    - lua_processor@*sbxlm.key_binder
+    - key_binder
+    - lua_processor@*sbxlm.popping
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+
+speller:
+  __include: sbpy.schema.yaml:/speller
+  algebra:
+    # 1. 执行双拼方案
+    - xform/(?<=[zcs])h//
+    - derive/^([jqxy])u(?=\d)/$1v/
+    - xform/^(?=[aoe])/V/
+    - xform/iu(?=\d)/Q/
+    - xform/[iu]a(?=\d)/W/
+    - xform/uan(?=\d)|er(?=\d)/R/
+    - xform/[uv]e(?=\d)/T/
+    - xform/ing(?=\d)|uai(?=\d)/Y/
+    - xform/uo(?=\d)/O/
+    - xform/[uv]n(?=\d)/P/
+    - xform/i?ong(?=\d)/S/
+    - xform/[iu]ang(?=\d)/D/
+    - xform/en(?=\d)/F/
+    - xform/eng(?=\d)/G/
+    - xform/ang(?=\d)/H/
+    - xform/ian(?=\d)/M/
+    - xform/an(?=\d)/J/
+    - xform/iao(?=\d)/C/
+    - xform/ao(?=\d)/K/
+    - xform/ai(?=\d)/L/
+    - xform/ei(?=\d)/Z/
+    - xform/ie(?=\d)/X/
+    - xform/ui(?=\d)/V/
+    - xform/ou(?=\d)/B/
+    - xform/in(?=\d)/N/
+    - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
+    # 2. 补笔画
+    - xlit/12345/eiuoa/
+    # 3. 出简码
+    - derive/^([a-z]{2}).+$/$1/
+    - derive/^([a-z]{3}).+$/$1/
+    - derive/^([a-z]{4}).+$/$1/
+  popping:
+    - when: popping
+      match: "([bpmfdtnlgkhjqxzcsrywv][a-z][aeiou]*)+[aeiou]+"
+      accept: "[bpmfdtnlgkhjqxzcsrywv]"
+
+translator:
+  __include: sbpy.schema.yaml:/translator
+  __patch:
+    prism: sbzrzj
