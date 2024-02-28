@@ -41,362 +41,527 @@ xa	险
 xe	项
 xo	兴
 ba	吧
-bc	表
-bf	本
-bg	崩
-bh	帮
+bc	表 不错
+bf	本 办法
+bg	崩 不过
+bh	帮 保护
 bi	比
-bj	办
-bk	报
-bl	白
-bm	便
-bn	宾
+bj	办 北京
+bk	报 不肯
+bl	白 本来
+bm	便 部门
+bn	宾 半年
 bo	波
 bu	部
-bx	别
-by	并
-bz	被
+bx	别 必须
+by	并 不要
+bz	被 不住
 ca	查
-cb	仇
-cd	创
+cb	仇 出版
+cd	创 程度
 ce	车
-cf	沉
-cg	成
-ch	长
+cf	沉 充分
+cg	成 成功
+ch	长 窗户
 ci	此
-cj	产
-ck	草
-cl	才
+cj	产 参加
+ck	草 此刻
+cl	才 出来
 co	错
-cp	村
-cr	传
-cs	从
+cp	村 产品
+cr	传 承认
+cs	从 此时
 cu	处
-cv	吹
-cy	揣
+cv	吹 从而
+cy	揣 产业
 da	大
-db	都
-dc	调
+db	都 代表
+dc	调 调查
 de	得
-df	扥
-dg	等
-dh	当
+df	扥 地方
+dg	等 大哥
+dh	当 的话
 di	地
-dj	但
-dk	道
-dl	带
-dm	点
+dj	但 大家
+dk	道 打开
+dl	带 带来
+dm	点 多么
 do	多
-dp	顿
-dq	丢
-dr	断
-ds	动
+dp	顿 大批
+dq	丢 地区
+dr	断 当然
+ds	动 但是
 du	都
-dv	对
-dw	嗲
-dx	爹
-dy	定
-dz	得
+dv	对 第二
+dw	嗲 单位
+dx	爹 东西
+dy	定 第一
+dz	得 弟子
 fa	法
-fb	否
-ff	分
-fg	风
-fh	方
-fj	反
+fb	否 分别
+ff	分 方法
+fg	风 法国
+fh	方 发挥
+fj	反 房间
 fo	佛
 fu	夫
-fz	非
+fz	非 发展
 ga	嘎
-gb	够
-gd	光
+gb	够 根本
+gd	光 感到
 ge	各
-gf	跟
-gg	更
-gh	刚
-gj	感
-gk	高
-gl	该
+gf	跟 功夫
+gg	更 改革
+gh	刚 规划
+gj	感 国家
+gk	高 公开
+gl	该 管理
 go	国
-gp	滚
-gr	关
-gs	公
+gp	滚 公平
+gr	关 果然
+gs	公 告诉
 gu	姑
-gv	规
-gw	挂
-gy	怪
-gz	给
+gv	规 公安
+gw	挂 各位
+gy	怪 关于
+gz	给 工作
 ha	哈
-hb	后
-hd	黄
+hb	后 好不
+hd	黄 活动
 he	何
-hf	很
-hg	横
-hh	行
-hj	汉
-hk	好
-hl	还
+hf	很 恢复
+hg	横 回归
+hh	行 缓缓
+hj	汉 环境
+hk	好 很快
+hl	还 回来
 ho	活
-hp	婚
-hr	欢
-hs	红
+hp	婚 害怕
+hr	欢 忽然
+hs	红 还是
 hu	乎
-hv	会
-hw	话
-hy	怀
-hz	黑
-jc	叫
-jd	将
+hv	会 黑暗
+hw	话 毫无
+hy	怀 还有
+hz	黑 孩子
+jc	叫 基础
+jd	将 觉得
 ji	己
-jm	见
-jn	进
-jp	军
-jq	九
-jr	卷
-js	炯
-jt	决
+jm	见 见面
+jn	进 今年
+jp	军 金牌
+jq	九 加强
+jr	卷 进入
+js	炯 建设
+jt	决 今天
 ju	据
-jw	家
-jx	接
-jy	经
+jw	家 极为
+jx	接 进行
+jy	经 教育
 ka	卡
-kb	口
-kd	况
+kb	口 恐怖
+kd	况 看到
 ke	科
-kf	肯
-kg	坑
-kh	康
-kj	看
-kk	考
-kl	开
+kf	肯 开发
+kg	坑 客观
+kh	康 客户
+kj	看 看见
+kk	考 看看
+kl	开 看来
 ko	扩
-kp	困
-kr	款
-ks	空
+kp	困 恐怕
+kr	款 客人
+ks	空 开始
 ku	苦
-kv	亏
-kw	跨
-ky	快
+kv	亏 可爱
+kw	跨 渴望
+ky	快 可以
 la	拉
-lb	楼
-lc	料
-ld	两
+lb	楼 老板
+lc	料 露出
+ld	两 领导
 le	乐
-lg	冷
-lh	浪
+lg	冷 两国
+lh	浪 厉害
 li	里
-lj	兰
-lk	老
-ll	来
-lm	连
-ln	林
+lj	兰 立即
+lk	老 离开
+ll	来 理论
+lm	连 里面
+ln	林 理念
 lo	落
-lp	论
-lq	流
-lr	乱
-ls	龙
-lt	略
+lp	论 老婆
+lq	流 离去
+lr	乱 老人
+ls	龙 历史
+lt	略 老头
 lu	路
-lv	律
-lw	俩
-lx	烈
-ly	领
-lz	类
+lv	律 两岸
+lw	俩 另外
+lx	烈 冷笑
+ly	领 利用
+lz	类 来自
 ma	吗
-mb	某
-mc	妙
+mb	某 明白
+mc	妙 名称
 me	么
-mf	们
-mg	梦
-mh	忙
+mf	们 麻烦
+mg	梦 美国
+mh	忙 模糊
 mi	密
-mj	满
-mk	毛
-ml	买
-mm	面
-mn	民
+mj	满 面积
+mk	毛 门口
+ml	买 美丽
+mm	面 慢慢
+mn	民 美女
 mo	模
-mq	缪
+mq	缪 目前
 mu	目
-mv	呒
-mx	灭
-my	明
-mz	美
+mv	呒 名额
+mx	灭 模型
+my	明 没有
+mz	美 名字
 na	那
-nb	耨
-nc	鸟
-nd	娘
+nb	耨 那边
+nc	鸟 农村
+nd	娘 难道
 ne	呢
-nf	嫩
-ng	能
-nh	囊
+nf	嫩 能否
+ng	能 那个
+nh	囊 女孩
 ni	尼
-nj	难
-nk	脑
-nl	乃
-nm	年
-nn	您
+nj	难 年纪
+nk	脑 难看
+nl	乃 那里
+nm	年 你们
+nn	您 男女
 no	诺
-nq	牛
-nr	暖
-ns	农
-nt	虐
+nq	牛 年轻
+nr	暖 女人
+ns	农 那时
+nt	虐 念头
 nu	怒
-nv	女
-nx	聂
-ny	宁
-nz	内
+nv	女 女儿
+nx	聂 那些
+ny	宁 那样
+nz	内 女子
 pa	怕
-pb	剖
-pc	飘
-pf	喷
-pg	朋
-ph	旁
+pb	剖 旁边
+pc	飘 平常
+pf	喷 佩服
+pg	朋 屁股
+ph	旁 破坏
 pi	皮
-pj	盘
-pk	跑
-pl	派
-pm	片
-pn	品
+pj	盘 平静
+pk	跑 片刻
+pl	派 漂亮
+pm	片 拼命
+pn	品 陪你
 po	破
 pu	普
-px	瞥
-py	评
-pz	配
-qc	瞧
-qd	强
+px	瞥 培训
+py	评 朋友
+pz	配 批准
+qc	瞧 清楚
+qd	强 取得
 qi	起
-qm	前
-qn	亲
-qp	群
-qq	求
-qr	全
-qs	穷
-qt	却
+qm	前 前面
+qn	亲 去年
+qp	群 强迫
+qq	求 轻轻
+qr	全 情人
+qs	穷 其实
+qt	却 其他
 qu	区
-qw	恰
-qx	且
-qy	情
-rb	柔
+qw	恰 千万
+qx	且 情形
+qy	情 企业
+rb	柔 日本
 re	热
-rf	任
-rg	仍
-rh	让
+rf	任 若非
+rg	仍 如果
+rh	让 如何
 ri	日
-rj	然
-rk	绕
+rj	然 人家
+rk	绕 人口
 ro	若
-rp	润
-rr	软
-rs	容
+rp	润 人品
+rr	软 仍然
+rs	容 认识
 ru	如
-rv	瑞
+rv	瑞 然而
 sa	杀
-sb	手
-sd	双
+sb	手 身边
+sd	双 说道
 se	色
-sf	身
-sg	生
-sh	上
+sf	身 十分
+sg	生 送给
+sh	上 时候
 si	时
-sj	三
-sk	少
-sl	赛
+sj	三 时间
+sk	少 时刻
+sl	赛 上来
 so	说
-sp	孙
-sr	算
-ss	送
+sp	孙 水平
+sr	算 虽然
+ss	送 身上
 su	数
-sv	水
-sw	刷
-sy	摔
-sz	谁
+sv	水 是啊
+sw	刷 所谓
+sy	摔 所以
+sz	谁 身子
 ta	她
-tb	头
-tc	条
+tb	头 特别
+tc	条 提出
 te	特
-tg	腾
-th	堂
+tg	腾 通过
+th	堂 谈话
 ti	体
-tj	谈
-tk	逃
-tl	太
-tm	天
+tj	谈 条件
+tk	逃 痛苦
+tl	太 讨论
+tm	天 他们
 to	脱
-tp	吞
-tr	团
-ts	同
+tp	吞 谈判
+tr	团 突然
+ts	同 同时
 tu	突
-tv	推
-tx	铁
-ty	听
-tz	忒
+tv	推 图案
+tx	铁 天下
+ty	听 统一
+tz	忒 同志
 va	啊
-vb	欧
+vb	欧 耳边
 ve	恶
-vf	嗯
-vh	昂
-vj	安
-vk	奥
-vl	爱
+vf	嗯 案犯
+vh	昂 而后
+vj	安 案件
+vk	奥 安康
+vl	爱 而来
 vo	哦
-vr	儿
-vv	嗯
-vz	诶
+vr	儿 爱人
+vv	嗯 暗暗
+vz	诶 儿子
 wa	瓦
-wf	问
-wg	翁
-wh	望
-wj	万
-wl	外
+wf	问 无法
+wg	翁 我国
+wh	望 文化
+wj	万 文件
+wl	外 为了
 wo	握
 wu	无
-wz	为
-xc	小
-xd	想
+wz	为 位置
+xc	小 形成
+xd	想 许多
 xi	西
-xm	现
-xn	心
-xp	寻
-xq	修
-xr	选
-xs	兄
-xt	学
+xm	现 项目
+xn	心 性能
+xp	寻 芯片
+xq	修 想起
+xr	选 显然
+xs	兄 先生
+xt	学 系统
 xu	许
-xw	夏
-xx	些
-xy	行
+xw	夏 希望
+xx	些 相信
+xy	行 需要
 ya	亚
-yb	有
+yb	有 一般
 ye	也
-yh	样
+yh	样 以后
 yi	以
-yj	眼
-yk	要
-yn	因
+yj	眼 已经
+yk	要 一块
+yn	因 一年
 yo	哟
-yp	云
-yr	原
-ys	用
-yt	月
+yp	云 一旁
+yr	原 依然
+ys	用 也是
+yt	月 摇头
 yu	于
-yy	应
+yy	应 一样
 za	咱
-zb	走
-zd	装
+zb	走 准备
+zd	装 知道
 ze	着
-zf	真
-zg	正
-zh	张
+zf	真 政府
+zg	正 这个
+zh	张 之后
 zi	子
-zj	展
-zk	找
-zl	再
+zj	展 自己
+zk	找 召开
+zl	再 这里
 zo	作
-zp	准
-zr	转
-zs	中
+zp	准 只怕
+zr	转 自然
+zs	中 只是
 zu	主
-zv	最
-zw	抓
-zy	拽
-zz	这
+zv	最 这儿
+zw	抓 作为
+zy	拽 这样
+zz	这 正在
+wm	我们 无名
+sm	什么 双目
+ql	起来 前来
+yw	因为 业务
+xz	现在 行政
+zm	怎么 咱们
+wt	问题 网通
+jj	经济 究竟
+zx	这些 中心
+yd	一定 有点
+bb	并不 宝宝
+rc	如此 热潮
+gx	关系 关心
+kn	可能 苦难
+vq	而且 而起
+gn	姑娘 概念
+yx	一些 影响
+jz	记者 竞争
+sc	市场 身材
+qg	全国 情歌
+gq	过去 跟前
+fx	发现 放下
+xl	下来 醒来
+yq	一切 要求
+yz	一直 样子
+rw	认为 人物
+rm	人民 入门
+yl	原来 眼里
+bs	表示 不时
+yg	应该 英国
+qk	情况 请看
+yc	因此 由此
+sq	事情 上去
+dd	得到 地道
+xh	喜欢 协会
+cx	出现 重新
+wq	完全 舞曲
+fs	发生 放松
+qz	其中 亲自
+fm	方面 发明
+sx	实现 身形
+bt	不同 白天
+cw	成为 称为
+fw	服务 分为
+wd	问道 味道
+fc	非常 扶持
+fq	父亲 风情
+fr	夫人 芙蓉
+jh	几乎 结合
+ym	一面 有名
+br	别人 必然
+xj	小姐 袭击
+td	听到 推动
+jl	建立 将来
+jg	结果 结构
+ry	人员 任意
+bd	不得 报道
+gc	工程 贯彻
+zc	支持 作出
+hq	回去 获取
+kq	口气 空气
+dt	点头 当天
+xg	香港 相关
+wx	微笑 无限
+cz	存在 创造
+cn	才能 常年
+ww	微微 文物
+yf	衣服 应付
+kz	控制 扩展
+zn	只能 周年
+ms	马上 描述
+jb	基本 决不
+kx	科学 开心
+zq	之前 追求
+wc	完成 晚餐
+sn	少女 首脑
+st	身体 神态
+bq	表情 兵器
+fl	法律 分离
+qb	全部 区别
+ws	晚上 无数
+gt	共同 给他
+hm	后面 还没
+rz	日子 日志
+zt	总统 昨天
+vy	而已 而言
+vw	安危 额外
+cm	充满 沉默
+cq	采取 产权
+md	目的 免得
+ht	回头 合同
+mt	明天 模特
+kc	看出 库存
+wy	唯一 文艺
+ct	传统 春天
+fv	反而 法案
+tw	台湾 提问
+tt	太太 偷偷
+dn	多年 电脑
+fy	反应 富有
+wr	温柔 外人
+rl	人类 日历
+tf	头发 台风
+bp	不怕 本片
+xf	幸福 西方
+hx	或许 含笑
+jk	加快 尽快
+vp	安排 耳旁
+gm	革命 光芒
+fd	反对 发动
+qj	期间 瞧见
+bv	不安 保安
+xb	宣布 想必
+fn	妇女 方能
+wb	无比 外表
+vm	澳门 恶魔
+cc	常常 财产
+rq	热情 日期
+rd	人大 认定
+wn	无奈 为难
+pt	普通 葡萄
+yv	因而 幼儿
+vc	暗藏 爱车
+tq	提起 提前
+bw	把握 本文
+fk	放开 反抗
+vt	儿童 爱她
+qf	气氛 欺负
+vd	耳朵 而定
+rn	热闹 让您
+hc	何处 合成
+mr	美人 茫然
+vx	恶心 安心
+pq	脾气 聘请
+xk	胸口 许可
+fp	分配 肥胖
+rt	如同 人体
+rx	人心 热心
+kt	客厅 卡通
+pp	偏偏 婆婆
+jf	解放 积分
+pr	平日 派人
+vs	昂首 二手
+ps	平时 评审
+pd	判断 跑到
+km	开门 科目
+qh	前后 清华
+lf	浪费 来访
+tn	头脑 他能
+jv	骄傲 教案
+pw	颇为 陪我
+vn	儿女 二年
+xv	喜爱 相爱
+pv	平安 破案
+hn	河南 还能
+ft	发帖 附图
+mp	门派 名片
+wk	我看 无可
+wp	无派 王牌
+wv	我爱 维尔
+nw	那位 内外
+mw	门外 骂我
+np	哪怕 涅盘
+vg	而过 昂贵
+qv	请按 去爱

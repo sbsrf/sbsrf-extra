@@ -65,6 +65,7 @@ speller:
     - xlit/QWRTYUIOPSDFGHJKLZXCVBNM/qwrtyuiopsdfghjklzxcvbnm/
     # 2. 补笔画
     - xlit/12345/eiuoa/
+    - xform/^([a-z\d]{5})\d+/$1/
     # 3. 出简码
     - derive/^([a-z]{2}).+$/$1/
     - derive/^([a-z]{3}).+$/$1/

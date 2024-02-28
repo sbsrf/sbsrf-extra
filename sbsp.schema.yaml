@@ -52,7 +52,7 @@ speller:
     - xform/ng(?=\d)/o/
     - xform/n(?=\d)/a/
     # 7. 补笔画
-    - xform/^([a-z]{3}\d{2})\d/$1/
+    - xform/^([a-z\d]{5})\d+/$1/
     - xlit/12345/eiuoa/
     # 8. 出简码
     - derive/^([a-z]).+$/$1/

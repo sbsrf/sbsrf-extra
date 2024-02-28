@@ -64,6 +64,7 @@ speller:
     - xform/in(?=\d)/N/
     - xlit/QWRTYUIOPSDFGHMJCKLZXVBN/qwrtyuiopsdfghmjcklzxvbn/
     # 2. 补笔画
+    - xform/^([a-z\d]{5})\d+/$1/
     - xlit/12345/eiuoa/
     # 3. 出简码
     - derive/^([a-z]{2}).+$/$1/

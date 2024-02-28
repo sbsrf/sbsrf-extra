@@ -13,11 +13,6 @@ schema:
   dependencies:
     - sbpy
 
-switches:
-  __include: sbpy.schema.yaml:/switches
-  __patch:
-    "@3": { options: [fixed, popping], reset: 1, states: [整句, 字词] }
-
 speller:
   __include: sbpy.schema.yaml:/speller
   algebra:
@@ -31,6 +26,7 @@ speller:
     - derive/^([a-z]{1}).+$/$1/
     - derive/^([a-z]{2}).+$/$1/
     - derive/^([a-z]{3}).+$/$1/
+    - derive/^([a-z]{4}).+$/$1/
   popping:
     # 纯顶模式，单字、二字词、三字词
     - when: popping
