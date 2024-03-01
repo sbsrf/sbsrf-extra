@@ -1,0 +1,45 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/sbsrf/librime
+      credentials:
+        username: tansongchen
+        password: ${{ secrets.pat }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Checkout parent
+        uses: actions/checkout@v4
+        with:
+          repository: sbsrf/sbsrf
+          path: sbsrf
+      - name: Build
+        id: build
+        run: |
+          mv sbsrf/sbxlm/* .
+          cat > default.custom.yaml <<EOF
+          patch:
+            schema_list:
+              - schema: sbpy
+              - schema: sbjz
+              - schema: sbzz
+              - schema: sbhz
+              - schema: sbsp
+          EOF
+          rime_deployer --build . /usr/share/rime-data
+          zip -r sbsrf-extra.zip sbpy.custom.yaml sbjz.* sbzz.* sbhz.* sbsp.* zh-hans* build/sbjz.* build/sbzz.* build/sbhz.* build/sbsp.* build/sbpy.*
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: sbsrf-extra.zip
