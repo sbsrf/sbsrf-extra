@@ -27,15 +27,6 @@ speller:
     - derive/^([a-z]{2}).+$/$1/
     - derive/^([a-z]{3}).+$/$1/
     - derive/^([a-z]{4}).+$/$1/
-  popping:
-    # 纯顶模式，单字、二字词、三字词
-    - when: popping
-      match: "([bpmfdtnlgkhjqxzcsrywv][aeuio]{0,4}){1,3}[aeiou]+"
-      accept: "[bpmfdtnlgkhjqxzcsrywv]"
-    # 纯顶模式，四字词和多字词
-    - when: popping
-      match: "([bpmfdtnlgkhjqxzcsrywv][aeuio]{0,4}){3}([bpmfdtnlgkhjqxzcsrywv]|[bpmfdtnlgkhjqxzcsrywv][aeiou]{2,})"
-      accept: "[bpmfdtnlgkhjqxzcsrywv]"
 
 translator:
   __include: sbpy.schema.yaml:/translator
