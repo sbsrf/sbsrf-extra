@@ -16,7 +16,7 @@ schema:
 switches:
   __include: sbpy.schema.yaml:/switches
   __patch:
-    "@4": { options: [fixed, popping], reset: 1, states: [整句, 字词] }
+    "@4": { options: [fixed, popping], reset: 1, states: [普通, 顶功] }
 
 engine:
   __include: sbpy.schema.yaml:/engine
