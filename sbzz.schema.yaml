@@ -33,6 +33,13 @@ engine:
     - navigator
     - express_editor
 
+popping:
+  __append:
+    # 词组顶
+    - when: popping
+      match: "([bpmfdtnlgkhjqxzcsrywv][a-z][aeiou]*)+[aeiou]+"
+      accept: "[bpmfdtnlgkhjqxzcsrywv]"
+
 speller:
   __include: sbpy.schema.yaml:/speller
   algebra:
@@ -71,16 +78,9 @@ speller:
     - derive/^([a-z]{3}).+$/$1/
     - derive/^([a-z]{4}).+$/$1/
   popping:
-    # 词组顶
-    - when: popping
-      match: "([bpmfdtnlgkhjqxzcsrywv][a-z][aeiou]*)+[aeiou]+"
-      accept: "[bpmfdtnlgkhjqxzcsrywv]"
-    # 顶标点
-    - match: ".*[^a-z0-9]"
-      accept: "[bpmfdtnlgkhjqxzcsrywv]"
-    # 标点顶
-    - match: ".*[a-z0-9;']"
-      accept: "[^a-z0-9;' ]"
+    __patch:
+      - /popping
+      - sbxlm.yaml:/basic_popping
 
 translator:
   __include: sbpy.schema.yaml:/translator
