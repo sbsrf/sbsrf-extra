@@ -33,7 +33,7 @@ engine:
     - navigator
     - express_editor
 
-popping:
+sbzz_popping:
   __append:
     # 词组顶
     - when: popping
@@ -79,7 +79,7 @@ speller:
     - derive/^([a-z]{4}).+$/$1/
   popping:
     __patch:
-      - /popping
+      - /sbzz_popping
       - sbxlm.yaml:/basic_popping
 
 translator:
