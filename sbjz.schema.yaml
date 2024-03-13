@@ -13,6 +13,12 @@ schema:
   dependencies:
     - sbpy
 
+switches:
+  __include: sbpy.schema.yaml:/switches
+  __patch:
+    '@3/reset': 1  #将后置设为默认
+    '@4/reset': 3  #将纯顶设为默认
+
 speller:
   __include: sbpy.schema.yaml:/speller
   algebra:
