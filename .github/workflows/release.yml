@@ -37,7 +37,7 @@ jobs:
               - schema: sbsp
           EOF
           rime_deployer --build . /usr/share/rime-data
-          zip -r sbsrf-extra.zip sbpy.custom.yaml sbjz.* sbzz.* sbhz.* sbsp.* zh-hans* build/sbjz.* build/sbzz.* build/sbhz.* build/sbsp.* build/sbpy.*
+          zip -r sbsrf-extra.zip sbpy.custom.yaml sbzz.* sbhz.* sbsp.* zh-hans* build/sbzz.* build/sbhz.* build/sbsp.* build/sbpy.*
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
