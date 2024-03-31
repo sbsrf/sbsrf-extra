@@ -32,7 +32,6 @@ jobs:
           patch:
             schema_list:
               - schema: sbpy
-              - schema: sbjz
               - schema: sbzz
               - schema: sbhz
               - schema: sbsp
